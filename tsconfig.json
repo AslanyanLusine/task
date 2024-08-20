@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "outDir": "$PWD/dist",
+      "declaration": true,
+      "declarationDir": "$PWD/types",
+    },
+    "include": [
+      "$PWD/src",
+    ],
+  }
